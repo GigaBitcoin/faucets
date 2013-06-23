@@ -4,7 +4,7 @@
 		{
 			"title"		:	"Virtual Faucet",
 			"detail"	:	"",
-			"url"		:	"http://www.virtualfaucet.com/",
+			"url"		:	"http://www.virtualfaucet.com/?r=14TekwC1ndDNKWoVYYgDsryNR6YsTRuuBV",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	".5",
@@ -22,7 +22,7 @@
 		{
 			"title"		:	"BTC4YOU",
 			"detail"	:	"",
-			"url"		:	"http://www.btc4you.com/",
+			"url"		:	"http://www.btc4you.com/?r=1JdJZTeBbFmDC9MVekuBSpRaC65QiY5GP6",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	".5",
@@ -40,7 +40,7 @@
 		{
 			"title"		:	"Can Has Bitcoin",
 			"detail"	:	"",
-			"url"		:	"http://www.canhasbitcoin.com/",
+			"url"		:	"http://www.canhasbitcoin.com/?r=1MEcP2Yas5232GSJ2ewJAKwnvRgAkmBx7Q",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	".5",
@@ -49,7 +49,7 @@
 		{
 			"title"		:	"FaucetBTC",
 			"detail"	:	"",
-			"url"		:	"http://www.faucetbtc.com/",
+			"url"		:	"http://www.faucetbtc.com/?r=1LDy62vKYP255VK7AMw5UK4CvTTwZsJD92",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	".5",
@@ -67,7 +67,7 @@
 		{
 			"title"		:	"FreeBTC4all",
 			"detail"	:	"",
-			"url"		:	"http://www.FreeBTC4all.com/",
+			"url"		:	"http://www.freebtc4all.com/?r=14um67ZK9Cs8x3PVfxEhdzc7ivYKgmUR7Z",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	".5",
@@ -76,7 +76,7 @@
 		{
 			"title"		:	"Can Has Litecoin",
 			"detail"	:	"",
-			"url"		:	"http://www.canhaslitecoin.tk/",
+			"url"		:	"http://www.canhaslitecoin.tk/?r=<YOUR BITCOIN ADDRESS>",
 			"type"		:	"time",
 			"coinage"	:	"ltc",
 			"timer"		:	".5",
@@ -98,7 +98,7 @@
 		{
 			"title"		:	"El Bitcoin Gratis",
 			"detail"	:	"",
-			"url"		:	"http://www.elbitcoingratis.es/",
+			"url"		:	"http://www.elbitcoingratis.es/?r=1FMKsYi1MTvShTGGsAY4ctW9tyfnAuF1Ts",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	"1",
@@ -209,7 +209,7 @@
 		{
 			"title"		:	"Free Bitcoins.me",
 			"detail"	:	"",
-			"url"		:	"http://www.freebitcoins.me/",
+			"url"		:	"http://www.freebitcoins.me/?r=159xEuRSzdTzyQ1tL378VnAkhE7Bdv4nRV",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	"24",
@@ -218,7 +218,7 @@
 		{
 			"title"		:	"The Free Bitcoins",
 			"detail"	:	"",
-			"url"		:	"http://www.thefreebitcoins.com/",
+			"url"		:	"http://www.thefreebitcoins.com/?r=1KFBaiqBCSgaB6NGUf8huNpkmwefM8nKV2",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	"24",
