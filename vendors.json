@@ -83,7 +83,7 @@
 			"input"		:	"ById( 'btcaddr' )"
 		}
 	],
-	"Houly" :
+	"Hourly" :
 	[
 		{
 			"title"		:	"Daily Bitcoins",
