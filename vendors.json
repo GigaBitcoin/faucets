@@ -1,0 +1,291 @@
+{
+    "Half Hour Faucets" :
+	[
+		{
+			"title"		:	"Virtual Faucet",
+			"detail"	:	"",
+			"url"		:	"http://www.virtualfaucet.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	".5",
+			"input"		:	"ById( 'btcaddr' )"
+		},
+		{
+			"title"		:	"SrBitcoin",
+			"detail"	:	"",
+			"url"		:	"http://www.srbitcoin.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	".5",
+			"input"		:	"ById( 'btcaddr' )"
+		},
+		{
+			"title"		:	"BTC4YOU",
+			"detail"	:	"",
+			"url"		:	"http://www.btc4you.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	".5",
+			"input"		:	"sByName( 'btcaddr' )[0]"
+		},
+		{
+			"title"		:	"Raw Bitcoins",
+			"detail"	:	"",
+			"url"		:	"http://www.rawbitcoins.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	".5",
+			"input"		:	"ById( 'btcaddr' )"
+		},
+		{
+			"title"		:	"Can Has Bitcoin",
+			"detail"	:	"",
+			"url"		:	"http://www.canhasbitcoin.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	".5",
+			"input"		:	"ById( 'btcaddr' )"
+		},
+		{
+			"title"		:	"FaucetBTC",
+			"detail"	:	"",
+			"url"		:	"http://www.faucetbtc.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	".5",
+			"input"		:	"ById( 'btcaddr' )"
+		},
+		{
+			"title"		:	"TheBitcoin.me",
+			"detail"	:	"",
+			"url"		:	"http://www.TheBitcoin.me/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	".5",
+			"input"		:	"ById( 'btcaddr' )"
+		},
+		{
+			"title"		:	"FreeBTC4all",
+			"detail"	:	"",
+			"url"		:	"http://www.FreeBTC4all.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	".5",
+			"input"		:	"sByName( 'btcaddr' )[0]"
+		},
+		{
+			"title"		:	"Can Has Litecoin",
+			"detail"	:	"",
+			"url"		:	"http://www.canhaslitecoin.tk/",
+			"type"		:	"time",
+			"coinage"	:	"ltc",
+			"timer"		:	".5",
+			"input"		:	"ById( 'btcaddr' )"
+		}
+	],
+	
+	"Houly Faucets" :
+	[
+		{
+			"title"		:	"Daily Bitcoins",
+			"detail"	:	"",
+			"url"		:	"http://dailybitcoins.org/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"1",
+			"input"		:	"ById( 'address-input' )"
+		},
+		{
+			"title"		:	"El Bitcoin Gratis",
+			"detail"	:	"",
+			"url"		:	"http://www.elbitcoingratis.es/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"1",
+			"input"		:	"sByName( 'btcaddr' )[0]"
+		},
+		{
+			"title"		:	"Coin of Midas",
+			"detail"	:	"",
+			"url"		:	"http://coinofmidas.com/litecoin/?ref=YOUR_ADDRESS",
+			"type"		:	"time",
+			"coinage"	:	"ltc",
+			"timer"		:	"1",
+			"input"		:	"ById( 'faucet' )"
+		}
+	],
+	
+	"Daily Faucets" :
+	[
+		{
+			"title"		:	"Bit Hits",
+			"detail"	:	"Three per IP",
+			"url"		:	"http://bithits.info/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'btcaddr' )"
+		},
+		{
+			"title"		:	"Coin Ad",
+			"detail"	:	"",
+			"url"		:	"http://coinad.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'address' )"
+		},
+		{
+			"title"		:	"Bitcointree",
+			"detail"	:	"",
+			"url"		:	"http://bitcointree.net/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"sByName( 'wallet' )[0]"
+		},
+		{
+			"title"		:	"BitCrate",
+			"detail"	:	"When Available",
+			"url"		:	"http://bitcrate.net/",
+			"type"		:	"push",
+			"coinage"	:	"btc",
+			"timer"		:	"0",
+			"input"		:	"ById( 'address-input' )"
+		},
+		{	"title"		:	"Bunny Run",
+			"detail"	:	"",
+			"url"		:	"http://bokland.nu/bunnyrun",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'bitcoinAddress' )"
+		},
+		{
+			"title"		:	"Bitcoiner",
+			"detail"	:	"",
+			"url"		:	"http://bitcoiner.net/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'address-input' )"
+		},
+		{
+			"title"		:	"Coin Ticket",
+			"detail"	:	"",
+			"url"		:	"http://cointicket.org/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"sByName( 'bitcoin_addr' )[0]"
+		},
+		{
+			"title"		:	"Bitcoin Addict",
+			"detail"	:	"",
+			"url"		:	"http://bitcoinaddict.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'bitcoinaddress' )"
+		},
+		{
+			"title"		:	"Net Lookup",
+			"detail"	:	"Per IP",
+			"url"		:	"http://netlookup.se/free-bitcoins",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'address' )"
+		},
+		{
+			"title"		:	"BitcoinAR",
+			"detail"	:	"",
+			"url"		:	"http://www.bitcoinar.net/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"sByName( 'ct_address' )[0]"
+		},
+		{
+			"title"		:	"Free Bitcoins.me",
+			"detail"	:	"",
+			"url"		:	"http://www.freebitcoins.me/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'btcaddr' )"
+		},
+		{
+			"title"		:	"The Free Bitcoins",
+			"detail"	:	"",
+			"url"		:	"http://www.thefreebitcoins.com/",
+			"type"		:	"time",
+			"coinage"	:	"btc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'btcaddr' )"
+		},
+		{
+			"title"		:	"Faucet Daily",
+			"detail"	:	"",
+			"url"		:	"http://faucet.litecoin.jp.pn/",
+			"type"		:	"time",
+			"coinage"	:	"ltc",
+			"timer"		:	"24",
+			"input"		:	"sByName( 'LTC' )[0]"
+		},
+		{
+			"title"		:	"Litecoiner",
+			"detail"	:	"",
+			"url"		:	"http://litecoiner.net/",
+			"type"		:	"time",
+			"coinage"	:	"ltc",
+			"timer"		:	"24",
+			"input"		:	"sByName( 'address' )[0]"
+		},
+		{
+			"title"		:	"Get Free LiteCoins",
+			"detail"	:	"",
+			"url"		:	"http://getfreelitecoins.com/",
+			"type"		:	"time",
+			"coinage"	:	"ltc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'ltc_address' )"
+		},
+		{
+			"title"		:	"LitecoinFaucet.net",
+			"detail"	:	"",
+			"url"		:	"http://litecoinfaucet.net/",
+			"type"		:	"time",
+			"coinage"	:	"ltc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'litecoinaddress' )"
+		},
+		{
+			"title"		:	"LTCFaucet.net",
+			"detail"	:	"",
+			"url"		:	"http://ltcfaucet.net/",
+			"type"		:	"time",
+			"coinage"	:	"ltc",
+			"timer"		:	"24",
+			"input"		:	"sByName( 'LTC' )[0]"
+		},
+		{
+			"title"		:	"Get Free LTC",
+			"detail"	:	"",
+			"url"		:	"http://getfreeltc.com/",
+			"type"		:	"time",
+			"coinage"	:	"ltc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'ltc_address' )"
+		},
+		{
+			"title"		:	"Daily Litecoins",
+			"detail"	:	"",
+			"url"		:	"http://dailylitecoin.com/",
+			"type"		:	"time",
+			"coinage"	:	"ltc",
+			"timer"		:	"24",
+			"input"		:	"ById( 'ltcaddress' )"
+		}
+	]
+}
