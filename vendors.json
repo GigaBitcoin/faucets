@@ -1,5 +1,5 @@
 {
-    "Half Hour Faucets" :
+    "Half Hour" :
 	[
 		{
 			"title"		:	"Virtual Faucet",
@@ -83,7 +83,7 @@
 			"input"		:	"ById( 'btcaddr' )"
 		}
 	],
-	"Houly Faucets" :
+	"Houly" :
 	[
 		{
 			"title"		:	"Daily Bitcoins",
@@ -113,7 +113,7 @@
 			"input"		:	"ById( 'faucet' )"
 		}
 	],
-	"Twenty-Four Hour Faucets" :
+	"Twenty Four Hour" :
 	[
 		{
 			"title"		:	"Bit Hits",
