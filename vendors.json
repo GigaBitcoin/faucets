@@ -13,7 +13,7 @@
 		{
 			"title"		:	"SrBitcoin",
 			"detail"	:	"",
-			"url"		:	"http://www.srbitcoin.com/",
+			"url"		:	"http://www.srbitcoin.com/?r=1Gwn1WiHcxkeKLVSzbcMv1ZhxWGPtZmoZ",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	".5",
@@ -31,7 +31,7 @@
 		{
 			"title"		:	"Raw Bitcoins",
 			"detail"	:	"",
-			"url"		:	"http://www.rawbitcoins.com/",
+			"url"		:	"http://www.rawbitcoins.com/?r=137UXXjNGLCCWtqdjc44eKTnY3zdmJdyLn",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	".5",
@@ -58,7 +58,7 @@
 		{
 			"title"		:	"TheBitcoin.me",
 			"detail"	:	"",
-			"url"		:	"http://www.TheBitcoin.me/",
+			"url"		:	"http://www.thebitcoin.me/?r=18WyhBXbCxUVVoFYTJdLM5MKBBH22GXMEW",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	".5",
@@ -88,7 +88,7 @@
 		{
 			"title"		:	"Daily Bitcoins",
 			"detail"	:	"",
-			"url"		:	"http://dailybitcoins.org/",
+			"url"		:	"http://dailybitcoins.org/index.php?aff=1b1d7ac1b7eb931d13593dea5c4b3c7b",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	"1",
@@ -118,7 +118,7 @@
 		{
 			"title"		:	"Bit Hits",
 			"detail"	:	"Three per IP",
-			"url"		:	"http://bithits.info/",
+			"url"		:	"http://bithits.info/index.php?ref=14D1e36HiShVmBMLdUCpfZXn6TSeVahih4",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	"24",
@@ -127,7 +127,7 @@
 		{
 			"title"		:	"Coin Ad",
 			"detail"	:	"",
-			"url"		:	"http://coinad.com/",
+			"url"		:	"http://coinad.com/?r=18201",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	"24",
@@ -136,7 +136,7 @@
 		{
 			"title"		:	"Bitcointree",
 			"detail"	:	"",
-			"url"		:	"http://bitcointree.net/",
+			"url"		:	"http://bitcointree.net/?r=gigabitcoin.co",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	"24",
@@ -145,7 +145,7 @@
 		{
 			"title"		:	"BitCrate",
 			"detail"	:	"When Available",
-			"url"		:	"http://bitcrate.net/",
+			"url"		:	"http://www.bitcrate.net/index.php?ref=2168",
 			"type"		:	"push",
 			"coinage"	:	"btc",
 			"timer"		:	"0",
@@ -161,7 +161,7 @@
 		},
 		{
 			"title"		:	"Bitcoiner",
-			"detail"	:	"",
+			"detail"	:	"Multiplier for consecutive days",
 			"url"		:	"http://bitcoiner.net/",
 			"type"		:	"time",
 			"coinage"	:	"btc",
@@ -189,7 +189,7 @@
 		{
 			"title"		:	"Net Lookup",
 			"detail"	:	"Per IP",
-			"url"		:	"http://netlookup.se/free-bitcoins",
+			"url"		:	"http://netlookup.se/free-bitcoins/556718",
 			"type"		:	"time",
 			"coinage"	:	"btc",
 			"timer"		:	"24",
@@ -223,17 +223,8 @@
 			"input"		:	"ById( 'btcaddr' )"
 		},
 		{
-			"title"		:	"Faucet Daily",
-			"detail"	:	"",
-			"url"		:	"http://faucet.litecoin.jp.pn/",
-			"type"		:	"time",
-			"coinage"	:	"ltc",
-			"timer"		:	"24",
-			"input"		:	"sByName( 'LTC' )[0]"
-		},
-		{
 			"title"		:	"Litecoiner",
-			"detail"	:	"",
+			"detail"	:	"Multiplier for consecutive days",
 			"url"		:	"http://litecoiner.net/",
 			"type"		:	"time",
 			"coinage"	:	"ltc",
@@ -243,34 +234,16 @@
 		{
 			"title"		:	"Get Free LiteCoins",
 			"detail"	:	"",
-			"url"		:	"http://getfreelitecoins.com/",
+			"url"		:	"http://getfreelitecoins.com/?r=gigabitcoin",
 			"type"		:	"time",
 			"coinage"	:	"ltc",
 			"timer"		:	"24",
 			"input"		:	"ById( 'ltc_address' )"
 		},
 		{
-			"title"		:	"LitecoinFaucet.net",
-			"detail"	:	"",
-			"url"		:	"http://litecoinfaucet.net/",
-			"type"		:	"time",
-			"coinage"	:	"ltc",
-			"timer"		:	"24",
-			"input"		:	"ById( 'litecoinaddress' )"
-		},
-		{
-			"title"		:	"LTCFaucet.net",
-			"detail"	:	"",
-			"url"		:	"http://ltcfaucet.net/",
-			"type"		:	"time",
-			"coinage"	:	"ltc",
-			"timer"		:	"24",
-			"input"		:	"sByName( 'LTC' )[0]"
-		},
-		{
 			"title"		:	"Get Free LTC",
 			"detail"	:	"",
-			"url"		:	"http://getfreeltc.com/",
+			"url"		:	"http://getfreeltc.com/?r=gigabitcoin",
 			"type"		:	"time",
 			"coinage"	:	"ltc",
 			"timer"		:	"24",
